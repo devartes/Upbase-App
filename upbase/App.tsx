@@ -282,6 +282,7 @@ const styles = StyleSheet.create({
   },
   sliderItem: {
     width: SLIDER_ITEM_WIDTH,
+    maxWidth: 200,
     height: 130,
     marginRight: 10,
     borderRadius: 10,
